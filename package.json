@@ -1,0 +1,10 @@
+{
+  "name": "yarn-visual-studio-repro",
+  "packageManager": "yarn@3.1.1",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
